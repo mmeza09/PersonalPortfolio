@@ -1,0 +1,68 @@
+body{
+    font-family: 'Patua One', cursive;
+  }
+  .navbar{
+    background-color:#3C4147;
+    border:0;
+    border-radius:0px;
+  }
+  .navbar .navbar-brand{
+    color:white;
+  }
+  .navbar .navbar-nav li a{
+    color:white;
+  }
+  .section-padding{
+    padding-bottom:20px;
+  }
+  #About{
+    background-color:#3C4147;
+    color:white;
+    padding-top:50px;
+  }
+  #About img{
+    margin-bottom:30px;
+  }
+  .img-responsive {
+      margin: 0 auto;
+  }
+  .btn-color{
+    background-color:#5B5E60;
+    margin-bottom:10px;
+    width:180px;
+    border:0;
+  }
+  .btn-color:hover{
+    background-color:#47433C;
+  }
+  #info-text{
+    border: 1px solid;
+    border-color:#5B5E60;
+  }
+  #Portfolio p{
+    color:#5B5E60;
+  }
+  #Portfolio img{
+    margin-bottom:15px;
+  }
+  #Portfolio h2{
+    color:#5B5E60;
+  }
+  #Contact h2{
+    color:#5B5E60;
+  }
+  .control-label{
+    color:white;
+  }
+  #Contact{
+    background-color:#3C4147;
+  }
+  textarea{
+    resize:none;
+  }
+  footer a{
+    color:#3C4147;
+  }
+  footer a:hover{
+    color:#47433C;
+  }
